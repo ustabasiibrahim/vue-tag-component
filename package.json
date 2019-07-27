@@ -1,8 +1,12 @@
 {
   "name": "vue-tag-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tag Component by İbrahim Ustabaşı",
   "main": "Tags.vue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ustabasiibrahim/vue-tag-component.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

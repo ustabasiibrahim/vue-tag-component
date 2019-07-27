@@ -14,7 +14,7 @@ You can install vue-component-tag component by npm
 npm install vue-component-tag
 ```
 
-After download, vs-tags will be ready to use in your VueJS Applications
+After download, vue-component-tag will be ready to use in your VueJS Applications
 
 ### Usage
 
