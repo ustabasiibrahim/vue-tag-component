@@ -1,0 +1,14 @@
+{
+  "name": "vue-tag-component",
+  "version": "1.0.1",
+  "description": "Tag Component by İbrahim Ustabaşı",
+  "main": "Tags.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-tag", "vuejs-tag", "tag-component-with-vue", "vue-tag-component"
+  ],
+  "author": "İbrahim Ustabaşı | ibrahimustabasi.com | ustabasiibrahim@gmail.com",
+  "license": "MIT"
+}
